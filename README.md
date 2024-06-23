@@ -24,15 +24,15 @@ Get exlusive Feature Previews as a [:gem: Supporter & Feature Tester](https://ko
 
 | Platform              |                                    Twitch                                     |      Youtube       |       Chzzk        |                                     Kick                                      |
 |-----------------------|:-----------------------------------------------------------------------------:|:------------------:|:------------------:|:-----------------------------------------------------------------------------:|
-| General Functionality |                              :heavy_check_mark:                               | :heavy_check_mark: | :heavy_check_mark: | ⏳[:gem:](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/256) |
-| Lowest Quality Select |                              :heavy_check_mark:                               | :heavy_check_mark: | :heavy_check_mark: | ⏳[:gem:](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/256) |
-| Status Boxes Updates  |                              :heavy_check_mark:                               | :heavy_check_mark: | :heavy_check_mark: | ⏳[:gem:](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/256) |
-| Login/Authentication  | ⏳[:gem:](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/256) |        :x:         |        :x:         |                                      :x:                                      |
-| Automatic Follow      | ⏳[:gem:](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/256) |        :x:         |        :x:         |                                      :x:                                      |
-| Automatic Chat        | ⏳[:gem:](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/256) |        :x:         |        :x:         |                                      :x:                                      |
-| Low CPU Usage Mode    | ⏳[:gem:](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/256) |        :x:         |        :x:         |                                      :x:                                      |
+| General Functionality |                              :heavy_check_mark:                               | :heavy_check_mark: | :heavy_check_mark: | ⏳[:gem:](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/276) |
+| Lowest Quality Select |                              :heavy_check_mark:                               | :heavy_check_mark: | :heavy_check_mark: | ⏳[:gem:](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/276) |
+| Status Boxes Updates  |                              :heavy_check_mark:                               | :heavy_check_mark: | :heavy_check_mark: | ⏳[:gem:](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/276) |
+| Login/Authentication  | ⏳[:gem:](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/276) |        :x:         |        :x:         |                                      :x:                                      |
+| Automatic Follow      | ⏳[:gem:](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/276) |        :x:         |        :x:         |                                      :x:                                      |
+| Automatic Chat        | ⏳[:gem:](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/276) |        :x:         |        :x:         |                                      :x:                                      |
+| Low CPU Usage Mode    | ⏳[:gem:](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/276) |        :x:         |        :x:         |                                      :x:                                      |
 
-:heavy_check_mark: Supported, :warning: Problems, :x: Unsupported, ⏳ In Development, [:gem: Preview Available](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/256) 
+:heavy_check_mark: Supported, :warning: Problems, :x: Unsupported, ⏳ In Development, [:gem: Preview Available](https://github.com/jlplenio/crude-twitch-viewer-bot/discussions/276) 
 
 ### In Action
 
